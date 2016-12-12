@@ -9,7 +9,7 @@ Inspecting the DOM gives a first clue about what might be the cause. It seems li
 
 ## Steps to reproduce
 1. Start the Spring Boot App
-2. Open the Microsoft Edge browser and go to http://localhost:8080
+2. Open the Microsoft IE 11 and go to http://localhost:8080
 3. A PDF (book of vaadin) should be displayed
 4. Hover over the label -> no tooltip is displayed
 5. Use the checkbox to hide the PDF Viewer
